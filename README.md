@@ -2,7 +2,7 @@
 Esercizi di Algoritmi e Strutture Dati scritti in pseudocodice
 
 # Come scaricare il materiale.
-La presente è una guida valida solo per i sistemi GNU/Linut
+La presente è una guida valida solo per i sistemi GNU/Linux
 
 * Installa git:
 	* Debian e derivate (Ubuntu, KDE Neon, Deepin e etc)
